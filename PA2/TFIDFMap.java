@@ -1,11 +1,5 @@
 package package2;
 
-/*
-
-Author: Akash Darak
-Date: 03/22/2016
-
-*/
 
 import java.io.BufferedReader;
 import java.io.FileReader;
