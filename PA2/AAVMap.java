@@ -1,11 +1,6 @@
 package package2;
 
-/*
 
-Author: Akash Darak
-Date: 03/24/2016
-
-*/
 
 import java.io.IOException;
 //import java.util.StringTokenizer;
