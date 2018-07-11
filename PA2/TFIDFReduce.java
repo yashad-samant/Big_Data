@@ -1,11 +1,5 @@
 package package2;
 
-/*
-
-Author: Akash Darak
-Date: 03/22/2016
-
-*/
 
 import java.io.IOException;
 import java.util.ArrayList;
