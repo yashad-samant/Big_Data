@@ -1,11 +1,6 @@
 package package2;
 
-/*
 
-Author: Akash Darak
-Date: 03/20/2016
-
-*/
 
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.conf.Configuration;
